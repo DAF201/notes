@@ -1,0 +1,3 @@
+# notes
+
+algorithms note
